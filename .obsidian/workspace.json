@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "852e4fd96923fb1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe5b618c9e9823f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2928aaf875d2829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Facade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4f4b76dd062f6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structural Design Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58d225aefd3f6859",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d8ac4700731c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77c6c5d60c865796",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "844bbc77efc58739",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5e9ec2838a48445",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7296a3705467f898",
+    "type": "split",
+    "children": [
+      {
+        "id": "64fd6c96811c9e28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f9168c6c8516ed0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Structural Design Patterns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d2c1fb41119a9ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Structural Design Patterns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee6f0edebf57e636",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9909ea4f1f384077",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Structural Design Patterns.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a4f4b76dd062f6d7",
+  "lastOpenFiles": [
+    "Facade.md",
+    "Structural Design Patterns.md",
+    "Composite.md",
+    "Decorator.md",
+    "Bridge.md",
+    "Adapter.md"
+  ]
+}
