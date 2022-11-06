@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy.md",
+                "file": "Chain of Responsibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proxy.md",
+                "file": "Chain of Responsibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proxy.md",
+                "file": "Chain of Responsibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proxy.md"
+                "file": "Chain of Responsibility.md"
               }
             }
           }
@@ -139,13 +139,15 @@
   },
   "active": "28ac6a7199e3b76a",
   "lastOpenFiles": [
-    "Adapter.md",
-    "Proxy.md",
+    "Bridge.md",
+    "Chain of Responsibility.md",
+    "Behavioral Design Patterns.md",
     "Structural Design Patterns.md",
+    "Proxy.md",
+    "Adapter.md",
     "Flyweight.md",
     "Facade.md",
     "Decorator.md",
-    "Composite.md",
-    "Bridge.md"
+    "Composite.md"
   ]
 }
